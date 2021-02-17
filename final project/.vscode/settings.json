@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.java": "java",
+    "random": "cpp",
+    "limits": "cpp",
+    "ranges": "cpp",
+    "fstream": "cpp"
+  }
+}
